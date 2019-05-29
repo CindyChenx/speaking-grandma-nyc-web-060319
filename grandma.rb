@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(value)
   if value == value.upcase
-    puts 
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif value == value.downcase
+    puts ""
